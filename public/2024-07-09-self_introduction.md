@@ -1,11 +1,11 @@
 ---
 title: ブログを始めました！
 tags:
-  - 'free_talk'
+  - free_talk
 private: false
-updated_at: ''
-id: null
-organization_url_name: 'techno_robocup'
+updated_at: '2025-07-28T22:09:26+09:00'
+id: 0c5d2bca3e392efb8f59
+organization_url_name: techno_robocup
 slide: false
 ignorePublish: false
 ---
