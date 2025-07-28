@@ -5,7 +5,7 @@ tags:
 private: false
 updated_at: ''
 id: null
-organization_url_name: techno_robocup
+organization_url_name: "techno_robocup"
 slide: false
 ignorePublish: false
 ---
