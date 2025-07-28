@@ -1,7 +1,7 @@
 ---
 title: ブログを始めました！
 tags:
-  - 'free talk'
+  - 'free_talk'
 private: false
 updated_at: ''
 id: null
